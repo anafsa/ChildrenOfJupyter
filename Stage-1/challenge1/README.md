@@ -1,7 +1,5 @@
 # Churn and retention model for public transportation 
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Challenge Provider: PSE 
 
 PSE is a company expert in Data Science and Advanced Research, which has been on the market since 1994. Since the beginning of its activity, PSE has been dedicated to Advanced Analytics. Today, this materializes in the implementation of technology solutions, advanced market research, and providing consultancy and data science services. 
@@ -39,8 +37,6 @@ Deadline: 17 - 04 - 2021 @ 14h00 GMT + 1
 Don’t forget that you will need to deliver the report using the template provided (see below) and a 1-minute summary. 
 
 Submission template: [http://bit.ly/wdl-template](http://bit.ly/wdl-template)
-
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
