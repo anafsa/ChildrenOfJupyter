@@ -1,0 +1,14 @@
+
+name: WDL
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - requests
+  - pandas
+  - jupyter
+  - seaborn
+  - requests_cache
