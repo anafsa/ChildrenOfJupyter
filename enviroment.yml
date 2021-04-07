@@ -11,3 +11,4 @@ dependencies:
   - pandas
   - jupyter
   - seaborn
+  - requests_cache
