@@ -2,6 +2,7 @@ import requests
 import requests_cache
 import pandas as pd
 import json
+import urllib.parse
 
 API_key = "155b4d6acbf49ae8044c54f654953578"
 
@@ -16,12 +17,22 @@ def get_service_data_by_city_name(service, city_name):
 # Apr 2019 and March 2020
 def get_history(city_name):
     requests_cache.install_cache('ow_history') # creates a cache
-    #url = "http://history.openweathermap.org/data/2.5/history/city?q=" + city_name + ",PT&appid=" + API_key
+
     url = "http://history.openweathermap.org/data/2.5/aggregated/year?q=" + city_name + ",PT&appid=" + API_key \
             + "&start=2019-04-01" \
             + "&end=2020-03-31" \
 
     return requests.get(url).json()
+
+def get_history_gps(lat, lon):
+    requests_cache.install_cache('ow_history') # creates a cache
+
+    url = "http://history.openweathermap.org/data/2.5/aggregated/year?lat=" + str(lat) + "&lon=" + str(lon) + "&appid=" + API_key \
+            + "&start=2019-04-01" \
+            + "&end=2020-03-31" \
+
+    return requests.get(url).json()
+
 
 def testes():
     print("-------------------------------------------------------------------------------------")
@@ -48,8 +59,16 @@ def aggregate_per_year(history):
     return val/count
 
 # ------------------------------
-city = "Alcochete"
-h = get_history(city)               # vou buscar os dados
-# print(h)
-h_per_year = aggregate_per_year(h)  # calculo a média para o ano
-print(h_per_year)
+#city = "Aveiro"
+#h = get_history(city)               # vou buscar os dados
+#h_per_year = aggregate_per_year(h)  # calculo a média para o ano
+#print(h_per_year)
+
+
+
+print(get_history_gps(40.9604, -8.5155))
+
+
+
+
+
