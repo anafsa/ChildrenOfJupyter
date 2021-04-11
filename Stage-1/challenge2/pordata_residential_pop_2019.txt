@@ -1,0 +1,309 @@
+tipo,local,>65anos
+Município,Arcos de Valdevez,6807
+Município,Caminha,4110
+Município,Melgaço,2941
+Município,Monção,5275
+Município,Paredes de Coura,2381
+Município,Ponte da Barca,2772
+Município,Ponte de Lima,9121
+Município,Valença,3325
+Município,Viana do Castelo,19537
+Município,Vila Nova de Cerveira,2103
+Município,Amares,3465
+Município,Barcelos,21218
+Município,Braga,31224
+Município,Esposende,6065
+Município,Terras de Bouro,1718
+Município,Vila Verde,9026
+Município,Cabeceiras de Basto,3061
+Município,Fafe,9789
+Município,Guimarães,28102
+Município,Mondim de Basto,1576
+Município,Póvoa de Lanhoso,4113
+Município,Vieira do Minho,2852
+Município,Vila Nova de Famalicão,24214
+Município,Vizela,3721
+Município,Arouca,4472
+Município,Espinho,7765
+Município,Gondomar,33346
+Município,Maia,24900
+Município,Matosinhos,37758
+Município,Oliveira de Azeméis,14484
+Município,Paredes,13191
+Município,Porto,61716
+Município,Póvoa de Varzim,11865
+Município,Santa Maria da Feira,26631
+Município,Santo Tirso,15674
+Município,São João da Madeira,4406
+Município,Trofa,7084
+Município,Vale de Cambra,5488
+Município,Valongo,17823
+Município,Vila do Conde,15233
+Município,Vila Nova de Gaia,59394
+Município,Boticas,1649
+Município,Chaves,10900
+Município,Montalegre,3255
+Município,Ribeira de Pena,1640
+Município,Valpaços,5259
+Município,Vila Pouca de Aguiar,3638
+Município,Amarante,10265
+Município,Baião,4057
+Município,Castelo de Paiva,2974
+Município,Celorico de Basto,3928
+Município,Cinfães,4240
+Município,Felgueiras,9143
+Município,Lousada,6637
+Município,Marcode Canaveses,8514
+Município,Paços de Ferreira,8413
+Município,Penafiel,11396
+Município,Resende,2356
+Município,Alijó,3296
+Município,Armamar,1566
+Município,CarrazedadeAnsiães,1981
+Município,Freixo de Espada à Cinta,1004
+Município,Lamego,5728
+Município,Mesão Frio,915
+Município,Moimenta da Beira,2438
+Município,Murça,1657
+Município,Penedono,708
+Município,Peso da Régua,3683
+Município,Sabrosa,1663
+Município,Santa Marta de Penaguião,1826
+Município,São João da Pesqueira,1697
+Município,Sernancelhe,1417
+Município,Tabuaço,1548
+Município,Tarouca,1654
+Município,Torre de Moncorvo,2792
+Município,Vila Nova de Foz Côa,2044
+Município,Vila Real,10633
+Município,Alfândega da Fé,1502
+Município,Bragança,8465
+Município,Macedo de Cavaleiros,4610
+Município,Miranda do Douro,2286
+Município,Mirandela,6184
+Município,Mogadouro,2979
+Município,Vila Flor,1838
+Município,Vimioso,1393
+Município,Vinhais,3268
+Município,Alcobaça,12548
+Município,Alenquer,8474
+Município,Arruda dos Vinhos,2985
+Município,Bombarral,3070
+Município,Cadaval,3611
+Município,Caldas da Rainha,11509
+Município,Lourinhã,5306
+Município,Nazaré,3356
+Município,Óbidos,2855
+Município,Peniche,6086
+Município,Sobral de MonteAgraço,1907
+Município,Torres Vedras,16637
+Município,Águeda,11171
+Município,Albergaria-a-Velha,5211
+Município,Anadia,7475
+Município,Aveiro,15927
+Município,Estarreja,5689
+Município,Ílhavo,7657
+Município,Murtosa,2147
+Município,Oliveira do Bairro,5104
+Município,Ovar,10867
+Município,Sever do Vouga,3078
+Município,Vagos,4955
+Município,Arganil,3087
+Município,Cantanhede,9482
+Município,Coimbra,34789
+Município,Condeixa-a-Nova,3470
+Município,Figueira da Foz,15054
+Município,Góis,1151
+Município,Lousã,3448
+Município,Mealhada,4671
+Município,Mira,3131
+Município,Miranda do Corvo,2835
+Município,Montemor-o-Velho,6155
+Município,Mortágua,2716
+Município,Oliveira do Hospital,5104
+Município,Pampilhosa da Serra,1549
+Município,Penacova,3960
+Município,Penela,1615
+Município,Soure,5189
+Município,Tábua,2731
+Município,Vila Nova de Poiares,1343
+Município,Alvaiázere,2099
+Município,Ansião,3306
+Município,Batalha,3362
+Município,Castanheira de Pêra,962
+Município,Figueiró dos Vinhos,1770
+Município,Leiria,25906
+Município,Marinha Grande,8722
+Município,Pedrógão Grande,1017
+Município,Pombal,12827
+Município,Porto de Mós,5359
+Município,Aguiar da Beira,1207
+Município,Carregal do Sal,2473
+Município,Castro Daire,4069
+Município,Mangualde,4806
+Município,Nelas,3566
+Município,Oliveira de Frades,2240
+Município,Penalva do Castelo,2136
+Município,Santa CombaDão,2987
+Município,São Pedro do Sul,4481
+Município,Sátão,2892
+Município,Tondela,7900
+Município,Vila Nova de Paiva,1252
+Município,Viseu,20815
+Município,Vouzela,2824
+Município,Castelo Branco,13523
+Município,Idanha-a-Nova,3173
+Município,Oleiros,1975
+Município,Penamacor,1867
+Município,Proença-a-Nova,2322
+Município,Vila Velha de Ródão,1207
+Município,Abrantes,10185
+Município,Alcanena,3387
+Município,Constância,884
+Município,Entroncamento,4151
+Município,Ferreira do Zêzere,2177
+Município,Mação,2235
+Município,Ourém,9851
+Município,Sardoal,966
+Município,Sertã,4226
+Município,Tomar,10135
+Município,Torres Novas,8922
+Município,Vila de Rei,1018
+Município,Vila Nova da Barquinha,1915
+Município,Almeida,2107
+Município,Belmonte,1755
+Município,Celorico da Beira,2113
+Município,Covilhã,13200
+Município,Figueira de Castelo Rodrigo,1732
+Município,Fornos de Algodres,1214
+Município,Fundão,7677
+Município,Gouveia,4175
+Município,Guarda,9093
+Município,Manteigas,927
+Município,Mêda,1670
+Município,Pinhel,2921
+Município,Sabugal,3930
+Município,Seia,6477
+Município,Trancoso,2762
+Município,Alcochete,3305
+Município,Almada,39377
+Município,Amadora,43252
+Município,Barreiro,20090
+Município,Cascais,43992
+Município,Lisboa,144050
+Município,Loures,46886
+Município,Mafra,13774
+Município,Moita,13721
+Município,Montijo,9865
+Município,Odivelas,34005
+Município,Oeiras,43787
+Município,Palmela,12518
+Município,Seixal,33838
+Município,Sesimbra,8914
+Município,Setúbal,25859
+Município,Sintra,68772
+Município,Vila Franca de Xira,26119
+Município,Alcácer do Sal,3546
+Município,Grândola,3736
+Município,Odemira,6763
+Município,Santiago do Cacém,7815
+Município,Sines,2914
+Município,Aljustrel,2304
+Município,Almodôvar,1954
+Município,Alvito,560
+Município,Barrancos,375
+Município,Beja,7542
+Município,Castro Verde,1589
+Município,Cuba,1027
+Município,Ferreira do Alentejo,1989
+Município,Mértola,2191
+Município,Moura,3141
+Município,Ourique,1379
+Município,Serpa,3706
+Município,Vidigueira,1271
+Município,Almeirim,5510
+Município,Alpiarça,1971
+Município,Azambuja,4979
+Município,Benavente,5504
+Município,Cartaxo,5426
+Município,Chamusca,2809
+Município,Coruche,5594
+Município,Golegã,1434
+Município,Rio Maior,4779
+Município,Salvaterra de Magos,5087
+Município,Santarém,14527
+Município,Alter do Chão,895
+Município,Arronches,825
+Município,Avis,1270
+Município,Campo Maior,1792
+Município,Castelo de Vide,873
+Município,Crato,1060
+Município,Elvas,4766
+Município,Fronteira,868
+Município,Gavião,1153
+Município,Marvão,959
+Município,Monforte,731
+Município,Nisa,2110
+Município,Ponte de Sor,4025
+Município,Portalegre,6042
+Município,Sousel,1337
+Município,Alandroal,1535
+Município,Arraiolos,1949
+Município,Borba,1912
+Município,Estremoz,3762
+Município,Évora,12366
+Município,Montemor-o-Novo,4661
+Município,Mora,1358
+Município,Mourão,540
+Município,Portel,1613
+Município,Redondo,1604
+Município,Reguengos de Monsaraz,2503
+Município,Vendas Novas,3133
+Município,Viana do Alentejo,1112
+Município,Vila Viçosa,1877
+Município,Albufeira,7052
+Município,Alcoutim,999
+Município,Aljezur,1717
+Município,Castro Marim,1715
+Município,Faro,13471
+Município,Lagoa,4820
+Município,Lagos,6507
+Município,Loulé,14629
+Município,Monchique,1805
+Município,Olhão,9063
+Município,Portimão,11207
+Município,São Brás de Alportel,2336
+Município,Silves,8639
+Município,Tavira,6503
+Município,Vila do Bispo,1383
+Município,Vila Real de Santo António,4207
+Município,Vila do Porto,840
+Município,Lagoa[R.A.A.],1816
+Município,Nordeste,873
+Município,Ponta Delgada,9304
+Município,Povoação,974
+Município,Ribeira Grande,2962
+Município,Vila Franca do Campo,1413
+Município,Angra do Heroísmo,6004
+Município,Vila da Praia da Vitória,3313
+Município,Santa Cruz da Graciosa,840
+Município,Calheta[R.A.A.],776
+Município,Velas,918
+Município,Lajes do Pico,1079
+Município,Madalena,1132
+Município,São Roque do Pico,642
+Município,Horta,2598
+Município,Lajes das Flores,303
+Município,Santa Cruz das Flores,404
+Município,Corvo,86
+Município,Calheta[R.A.M.],2394
+Município,Câmara de Lobos,4215
+Município,Funchal,19922
+Município,Machico,3505
+Município,Ponta do Sol,1378
+Município,Porto Moniz,586
+Município,Ribeira Brava,2157
+Município,Santa Cruz,5331
+Município,Santana,1673
+Município,São Vicente,1307
+Município,Porto Santo,709
