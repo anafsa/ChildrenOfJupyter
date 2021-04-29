@@ -13,5 +13,7 @@ dependencies:
   - jupyter
   - seaborn
   - requests_cache
+  - geopandas
+  - folium
   - pip:
     - osmium
