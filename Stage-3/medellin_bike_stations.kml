@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Estaciones EnCicla</name>
+    <description>Estaciones 22/04/2021</description>
+    <Style id="icon-1522-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>EnCicla</name>
+      <Placemark>
+        <name>La 33</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.239278, -75.583083<br>Latitud: 6.239278<br>Longitud: -75.583083]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.239278, -75.583083</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.239278</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.583083</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.583083,6.239278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maria Luisa Calle</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.215556, -75.593091<br>Latitud: 6.215556<br>Longitud: -75.593091]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.215556, -75.593091</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.215556</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.593091</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.593091,6.215556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque de Los Mangos</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245384, -75.584000<br>Latitud: 6.245384<br>Longitud: -75.584000]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245384, -75.584000</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245384</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.584000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.584,6.245384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primer Parque de Laureles</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245952, -75.593760<br>Latitud: 6.245952<br>Longitud: -75.593760]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245952, -75.593760</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245952</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.593760</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.59376,6.245952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosales</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.231325, -75.591527<br>Latitud: 6.231325<br>Longitud: -75.591527]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.231325, -75.591527</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.231325</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.591527</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.591527,6.231325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Área Metropolitana</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.242538, -75.573832<br>Latitud: 6.242538<br>Longitud: -75.573832]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.242538, -75.573832</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.242538</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.573832</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.573832,6.242538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque de Las Luces I</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245865, -75.571845<br>Latitud: 6.245865<br>Longitud: -75.571845]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245865, -75.571845</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245865</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.571845</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571845,6.245865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque de Las Luces II</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245865, -75.571845<br>Latitud: 6.245865<br>Longitud: -75.571845]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245865, -75.571845</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245865</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.571845</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571845,6.245865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pies Descalzos I</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245410, -75.576988<br>Latitud: 6.245410<br>Longitud: -75.576988]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245410, -75.576988</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245410</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.576988</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.576988,6.24541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pies Descalzos II</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245410, -75.576988<br>Latitud: 6.245410<br>Longitud: -75.576988]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245410, -75.576988</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245410</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.576988</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.576988,6.24541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de La Libertad</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.243464, -75.574664<br>Latitud: 6.243464<br>Longitud: -75.574664]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.243464, -75.574664</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.243464</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.574664</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.574664,6.243464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.242681, -75.575608<br>Latitud: 6.242681<br>Longitud: -75.575608]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.242681, -75.575608</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.242681</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.575608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.575608,6.242681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circular Primera</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.241861, -75.591948<br>Latitud: 6.241861<br>Longitud: -75.591948]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.241861, -75.591948</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.241861</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.591948</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.591948,6.241861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Industriales Metroplús</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.231386, -75.577084<br>Latitud: 6.231386<br>Longitud: -75.577084]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.231386, -75.577084</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.231386</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.577084</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.577084,6.231386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo de Antioquia</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.251823, -75.568784<br>Latitud: 6.251823<br>Longitud: -75.568784]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.251823, -75.568784</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.251823</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.568784</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.568784,6.251823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Nel Gómez</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.246907, -75.596608<br>Latitud: 6.246907<br>Longitud: -75.596608]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.246907, -75.596608</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.246907</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.596608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.596608,6.246907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Joaquín</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.243338, -75.586079<br>Latitud: 6.243338<br>Longitud: -75.586079]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.243338, -75.586079</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.243338</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.586079</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586079,6.243338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Teresita</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.242072, -75.596704<br>Latitud: 6.242072<br>Longitud: -75.596704]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.242072, -75.596704</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.242072</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.596704</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.596704,6.242072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orquídeas</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.262650, -75.588819<br>Latitud: 6.262650<br>Longitud: -75.588819]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.262650, -75.588819</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.262650</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.588819</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.588819,6.26265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unidad Deportiva de Belén</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.232522, -75.587554<br>Latitud: 6.232522<br>Longitud: -75.587554]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.232522, -75.587554</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.232522</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.587554</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587554,6.232522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Batallón</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.262184, -75.595035<br>Latitud: 6.262184<br>Longitud: -75.595035]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.262184, -75.595035</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.262184</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.595035</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.595035,6.262184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Florida Nueva</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.252601, -75.590320<br>Latitud: 6.252601<br>Longitud: -75.590320]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.252601, -75.590320</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.252601</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.590320</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.59032,6.252601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La 65</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.249028, -75.583349<br>Latitud: 6.249028<br>Longitud: -75.583349]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.249028, -75.583349</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.249028</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.583349</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.583349,6.249028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>María Mulata</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.250558, -75.594746<br>Latitud: 6.250558<br>Longitud: -75.594746]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.250558, -75.594746</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.250558</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.594746</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.594746,6.250558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Pablo II</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.221287, -75.592129<br>Latitud: 6.221287<br>Longitud: -75.592129]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.221287, -75.592129</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.221287</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.592129</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.592129,6.221287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Industriales Metro</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.230376, -75.574397<br>Latitud: 6.230376<br>Longitud: -75.574397]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.230376, -75.574397</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.230376</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.574397</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.574397,6.230376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAMM</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.223781, -75.574981<br>Latitud: 6.223781<br>Longitud: -75.574981]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.223781, -75.574981</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.223781</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.574981</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.574981,6.223781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nutibara</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.231852, -75.582914<br>Latitud: 6.231852<br>Longitud: -75.582914]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.231852, -75.582914</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.231852</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.582914</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.582914,6.231852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Río Aburrá</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.228841, -75.574570<br>Latitud: 6.228841<br>Longitud: -75.574570]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.228841, -75.574570</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.228841</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.574570</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57457,6.228841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIU-UdeA</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.260469, -75.567132<br>Latitud: 6.260469<br>Longitud: -75.567132]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.260469, -75.567132</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.260469</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.567132</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.567132,6.260469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Carlota</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.220348, -75.575247<br>Latitud: 6.220348<br>Longitud: -75.575247]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.220348, -75.575247</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.220348</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.575247</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.575247,6.220348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cacique Candela</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.243821, -75.595265<br>Latitud: 6.243821<br>Longitud: -75.595265]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.243821, -75.595265</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.243821</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.595265</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.595265,6.243821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palacé</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.236342, -75.573370<br>Latitud: 6.236342<br>Longitud: -75.573370]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.236342, -75.573370</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.236342</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.573370</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57337,6.236342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciudad del Río</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.222509, -75.572937<br>Latitud: 6.222509<br>Longitud: -75.572937]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.222509, -75.572937</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.222509</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.572937</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.572937,6.222509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otra Banda</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.255558, -75.579270<br>Latitud: 6.255558<br>Longitud: -75.579270]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.255558, -75.579270</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.255558</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.579270</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57927,6.255558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque San Joaquín</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.245563, -75.586774<br>Latitud: 6.245563<br>Longitud: -75.586774]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245563, -75.586774</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245563</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.586774</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586774,6.245563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Segundo Parque de Laureles</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.245215, -75.596946<br>Latitud: 6.245215<br>Longitud: -75.596946]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245215, -75.596946</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245215</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.596946</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.596946,6.245215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primavera</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.225299, -75.572273<br>Latitud: 6.225299<br>Longitud: -75.572273]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.225299, -75.572273</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.225299</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.572273</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.572273,6.225299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Pedro y San Pablo</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.258322, -75.594227<br>Latitud: 6.258322<br>Longitud: -75.594227]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.258322, -75.594227</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.258322</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.594227</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.594227,6.258322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cisneros - Unaula</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.250509, -75.574870<br>Latitud: 6.250509<br>Longitud: -75.574870]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.250509, -75.574870</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.250509</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.574870</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57487,6.250509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colombia</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.256570, -75.580986<br>Latitud: 6.256570<br>Longitud: -75.580986]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.256570, -75.580986</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.256570</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.580986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.580986,6.25657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estadio</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.253491, -75.588292<br>Latitud: 6.253491<br>Longitud: -75.588292]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.253491, -75.588292</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.253491</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.588292</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.588292,6.253491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Floresta</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.258634, -75.597332<br>Latitud: 6.258634<br>Longitud: -75.597332]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.258634, -75.597332</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.258634</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.597332</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.597332,6.258634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Colores</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.260012, -75.585163<br>Latitud: 6.260012<br>Longitud: -75.585163]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.260012, -75.585163</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.260012</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.585163</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.585163,6.260012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moravia</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.276624, -75.564467<br>Latitud: 6.276624<br>Longitud: -75.564467]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.276624, -75.564467</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.276624</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.564467</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.564467,6.276624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Punto Cero</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.265206, -75.575010<br>Latitud: 6.265206<br>Longitud: -75.575010]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.265206, -75.575010</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.265206</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.575010</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57501,6.265206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robledo</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.271929, -75.591350<br>Latitud: 6.271929<br>Longitud: -75.591350]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.271929, -75.591350</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.271929</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.591350</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.59135,6.271929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruta N</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.264983, -75.566380<br>Latitud: 6.264983<br>Longitud: -75.566380]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.264983, -75.566380</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.264983</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.566380</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.56638,6.264983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Juan</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.249021, -75.588609<br>Latitud: 6.249021<br>Longitud: -75.588609]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.249021, -75.588609</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.249021</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.588609</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.588609,6.249021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suramericana</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.253060, -75.583108<br>Latitud: 6.253060<br>Longitud: -75.583108]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.253060, -75.583108</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.253060</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.583108</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.583108,6.25306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Universidad</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.269442, -75.565807<br>Latitud: 6.269442<br>Longitud: -75.565807]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.269442, -75.565807</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.269442</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.565807</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.565807,6.269442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Universidad Nacional</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.260445, -75.579511<br>Latitud: 6.260445<br>Longitud: -75.579511]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.260445, -75.579511</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.260445</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.579511</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.579511,6.260445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPB</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.245050, -75.589254<br>Latitud: 6.245050<br>Longitud: -75.589254]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.245050, -75.589254</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.245050</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.589254</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.589254,6.24505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Málaga</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.246740, -75.569878<br>Latitud: 6.246740<br>Longitud: -75.569878]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.246740, -75.569878</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.246740</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.569878</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.569878,6.24674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telemedellín</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.220076, -75.571529<br>Latitud: 6.220076<br>Longitud: -75.571529]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.220076, -75.571529</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.220076</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.571529</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571529,6.220076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 19A Villa Carlota</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.222088, -75.571039<br>Latitud: 6.222088<br>Longitud: -75.571039]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.222088, -75.571039</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.222088</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.571039</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571039,6.222088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salazar y Herrera</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.260392, -75.586183<br>Latitud: 6.260392<br>Longitud: -75.586183]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.260392, -75.586183</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.260392</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.586183</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586183,6.260392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Berrio</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.250128, -75.568445<br>Latitud: 6.250128<br>Longitud: -75.568445]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.250128, -75.568445</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.250128</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.568445</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.568445,6.250128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palacio de la Cultura</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.251074, -75.568037<br>Latitud: 6.251074<br>Longitud: -75.568037]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.251074, -75.568037</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.251074</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.568037</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.568037,6.251074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Antonio</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.247417, -75.569691<br>Latitud: 6.247417<br>Longitud: -75.569691]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.247417, -75.569691</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.247417</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.569691</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.569691,6.247417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 51 Los Colores</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.263428, -75.595077<br>Latitud: 6.263428<br>Longitud: -75.595077]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.263428, -75.595077</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.263428</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.595077</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.595077,6.263428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Picacha la 76</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.235417, -75.596427<br>Latitud: 6.235417<br>Longitud: -75.596427]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.235417, -75.596427</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.235417</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.596427</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.596427,6.235417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bulerias</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.238529, -75.590518<br>Latitud: 6.238529<br>Longitud: -75.590518]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.238529, -75.590518</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.238529</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.590518</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590518,6.238529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unicentro</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.239966, -75.586719<br>Latitud: 6.239966<br>Longitud: -75.586719]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.239966, -75.586719</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.239966</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.586719</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586719,6.239966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetero</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.238739, -75.586620<br>Latitud: 6.238739<br>Longitud: -75.586620]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.238739, -75.586620</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.238739</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.586620</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.58662,6.238739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabaneta Parque</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Manual<br>Coordenada: 6.151731, -75.615704<br>Latitud: 6.151731<br>Longitud: -75.615704]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.151731, -75.615704</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.151731</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.615704</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.615704,6.151731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabaneta Metro</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Manual<br>Coordenada: 6.156852, -75.616675<br>Latitud: 6.156852<br>Longitud: -75.616675]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.156852, -75.616675</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.156852</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.616675</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.616675,6.156852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parques del río</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.244882, -75.580033<br>Latitud: 6.244882<br>Longitud: -75.580033]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.244882, -75.580033</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.244882</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.580033</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.580033,6.244882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Distrito Creativo</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Automática<br>Coordenada: 6.234595, -75.571994<br>Latitud: 6.234595<br>Longitud: -75.571994]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.234595, -75.571994</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.234595</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.571994</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571994,6.234595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Envigado Norte</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.174331, -75.595773<br>Latitud: 6.174331<br>Longitud: -75.595773]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.174331, -75.595773</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.174331</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.595773</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.595773,6.174331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villas de vallejuelos</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.168553, -75.592908<br>Latitud: 6.168553<br>Longitud: -75.592908]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.168553, -75.592908</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.168553</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.592908</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.592908,6.168553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El MUA</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.170471, -75.589438<br>Latitud: 6.170471<br>Longitud: -75.589438]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.170471, -75.589438</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.170471</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.589438</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.589438,6.170471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Débora Arango</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.171800, -75.591125<br>Latitud: 6.171800<br>Longitud: -75.591125]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.171800, -75.591125</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.171800</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.591125</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.591125,6.1718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Envigado Sur</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.173610, -75.597049<br>Latitud: 6.173610<br>Longitud: -75.597049]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.173610, -75.597049</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.173610</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.597049</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.597049,6.17361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auxiliar Metro Envigado</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.173578, -75.596885<br>Latitud: 6.173578<br>Longitud: -75.596885]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.173578, -75.596885</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.173578</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.596885</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.596885,6.173578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los urapanes</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.173127, -75.591236<br>Latitud: 6.173127<br>Longitud: -75.591236]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.173127, -75.591236</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.173127</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.591236</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.591236,6.173127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pista de Patinaje</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.169576, -75.594945<br>Latitud: 6.169576<br>Longitud: -75.594945]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.169576, -75.594945</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.169576</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.594945</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.594945,6.169576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viva Envigado</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.177227, -75.590255<br>Latitud: 6.177227<br>Longitud: -75.590255]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.177227, -75.590255</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.177227</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.590255</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590255,6.177227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Fundadores</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.172604, -75.592901<br>Latitud: 6.172604<br>Longitud: -75.592901]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.172604, -75.592901</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.172604</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.592901</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.592901,6.172604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porton de Alcalá</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.168705, -75.590949<br>Latitud: 6.168705<br>Longitud: -75.590949]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.168705, -75.590949</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.168705</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.590949</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590949,6.168705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia Alcalá</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.170014, -75.593264<br>Latitud: 6.170014<br>Longitud: -75.593264]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.170014, -75.593264</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.170014</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.593264</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.593264,6.170014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Envigado Centro</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.170276, -75.586902<br>Latitud: 6.170276<br>Longitud: -75.586902]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.170276, -75.586902</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.170276</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.586902</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586902,6.170276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campus Nacional</name>
+        <description><![CDATA[Municipio: Medellín<br>Tipo operación: Manual<br>Coordenada: 6.260304, -75.577232<br>Latitud: 6.260304<br>Longitud: -75.577232]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Medellín</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Manual</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.260304, -75.577232</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.260304</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.577232</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.577232,6.260304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guanteros</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.169111, -75.588396<br>Latitud: 6.169111<br>Longitud: -75.588396]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.169111, -75.588396</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.169111</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.588396</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.588396,6.169111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Ultima estación</name>
+        <description><![CDATA[Municipio: Envigado<br>Tipo operación: Automática<br>Coordenada: 6.171251, -75.594204<br>Latitud: 6.171251<br>Longitud: -75.594204]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Envigado</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.171251, -75.594204</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.171251</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.594204</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.594204,6.171251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Barquereña</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.150875, -75.613319<br>Latitud: 6.150875<br>Longitud: -75.613319]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.150875, -75.613319</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.150875</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.613319</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.613319,6.150875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sabaneta Centro</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.150518, -75.616446<br>Latitud: 6.150518<br>Longitud: -75.616446]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.150518, -75.616446</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.150518</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.616446</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.616446,6.150518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Entre Amigos</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.152341, -75.618229<br>Latitud: 6.152341<br>Longitud: -75.618229]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.152341, -75.618229</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.152341</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.618229</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.618229,6.152341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aves María</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.149626, -75.617783<br>Latitud: 6.149626<br>Longitud: -75.617783]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.149626, -75.617783</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.149626</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.617783</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.617783,6.149626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca Sabaneta</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.149980, -75.618929<br>Latitud: 6.149980<br>Longitud: -75.618929]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.149980, -75.618929</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.149980</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.618929</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.618929,6.14998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Nueva</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.148259, -75.620690<br>Latitud: 6.148259<br>Longitud: -75.620690]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.148259, -75.620690</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.148259</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.620690</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.62069,6.148259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Ana</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.153823, -75.615193<br>Latitud: 6.153823<br>Longitud: -75.615193]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.153823, -75.615193</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.153823</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.615193</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.615193,6.153823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Vegas 69 sur</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.154109, -75.616966<br>Latitud: 6.154109<br>Longitud: -75.616966]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.154109, -75.616966</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.154109</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.616966</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.616966,6.154109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque 4 Elementos</name>
+        <description><![CDATA[Municipio: Sabaneta<br>Tipo operación: Automática<br>Coordenada: 6.152508, -75.612755<br>Latitud: 6.152508<br>Longitud: -75.612755]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Sabaneta</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.152508, -75.612755</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.152508</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.612755</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.612755,6.152508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bahía Ciclovia</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.168063, -75.606339<br>Latitud: 6.168063<br>Longitud: -75.606339]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.168063, -75.606339</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.168063</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.606339</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.606339,6.168063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doña María</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.175743, -75.606110<br>Latitud: 6.175743<br>Longitud: -75.606110]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.175743, -75.606110</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.175743</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.606110</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.60611,6.175743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ideas</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.169496, -75.607536<br>Latitud: 6.169496<br>Longitud: -75.607536]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.169496, -75.607536</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.169496</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.607536</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.607536,6.169496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Naranjos</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.172072, -75.607006<br>Latitud: 6.172072<br>Longitud: -75.607006]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.172072, -75.607006</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.172072</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.607006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.607006,6.172072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Itaguí I</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.164239, -75.606212<br>Latitud: 6.164239<br>Longitud: -75.606212]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.164239, -75.606212</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.164239</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.606212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.606212,6.164239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metro Itaguí II</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.164239, -75.606212<br>Latitud: 6.164239<br>Longitud: -75.606212]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.164239, -75.606212</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.164239</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.606212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.606212,6.164239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metróplus Cami</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.174801, -75.609510<br>Latitud: 6.174801<br>Longitud: -75.609510]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.174801, -75.609510</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.174801</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.609510</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.60951,6.174801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque el Artista</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.178943, -75.602049<br>Latitud: 6.178943<br>Longitud: -75.602049]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.178943, -75.602049</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.178943</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.602049</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.602049,6.178943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Itaguí</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.172706, -75.609331<br>Latitud: 6.172706<br>Longitud: -75.609331]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.172706, -75.609331</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.172706</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.609331</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.609331,6.172706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Pan de Queso I</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.174438, -75.598414<br>Latitud: 6.174438<br>Longitud: -75.598414]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.174438, -75.598414</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.174438</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.598414</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.598414,6.174438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Pan de Queso II</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.174695, -75.598007<br>Latitud: 6.174695<br>Longitud: -75.598007]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.174695, -75.598007</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.174695</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.598007</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.598007,6.174695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Paula</name>
+        <description><![CDATA[Municipio: Itagüí<br>Tipo operación: Automática<br>Coordenada: 6.174352, -75.606472<br>Latitud: 6.174352<br>Longitud: -75.606472]]></description>
+        <styleUrl>#icon-1522-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Municipio">
+            <value>Itagüí</value>
+          </Data>
+          <Data name="Tipo operación">
+            <value>Automática</value>
+          </Data>
+          <Data name="Coordenada">
+            <value>6.174352, -75.606472</value>
+          </Data>
+          <Data name="Latitud">
+            <value>6.174352</value>
+          </Data>
+          <Data name="Longitud">
+            <value>-75.606472</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.606472,6.174352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,108 @@
+ID;Description;numSlots;shortName;Lat;Lon;isManual;webDescription;photo
+1;Moravia;15;MRV;6,276585;-75,564804;1;Frente a la entrada principal del Centro de Desarrollo Cultural de Moravia;https://encicla.metropol.gov.co/imgstations/moravia.jpg
+2;Universidad;33;UNI;6,269267;-75,5653;1;Bajo el viaducto de la estación Universidad del Metro;https://encicla.metropol.gov.co/imgstations/universidad.jpg
+3;Ruta N;40;RTN;6,265182;-75,566348;0;Frente a la fachada principal de Ruta N sobre la ciclorruta de la Avenida Carabobo.;https://encicla.metropol.gov.co/imgstations/ruta_n.jpg
+4;Punto Cero;10;PT0;6,265161;-75,575066;1;Intercambio vial de Punto Cero al lado de la estación de policía;https://encicla.metropol.gov.co/imgstations/punto_cero.jpg
+5;Universidad Nacional;33;NA;6,259663;-75,578812;1;Portería de la Iguaná con Carrera 65 de la Universidad Nacional;https://encicla.metropol.gov.co/imgstations/universidad_nacional.jpg
+6;Colombia;12;COL;6,25649;-75,581024;1;Esquina occidental de la Carrera 65 con Calle 51;https://encicla.metropol.gov.co/imgstations/colombia.jpg
+7;Suramericana;20;SUR;6,253003;-75,582687;1;Bajo el viaducto de la estación Suramericana del Metro;https://encicla.metropol.gov.co/imgstations/suramericana.jpg
+8;Estadio;20;EST;6,253349;-75,587692;1;Bajo el viaducto de la estación Estadio del Metro en el parqueadero de bicicletas;https://encicla.metropol.gov.co/imgstations/estadio.jpg
+9;San Juan;14;SJU;6,249014;-75,588585;0;Costado norte de la Calle 44 San Juan con Carrera 70;https://encicla.metropol.gov.co/imgstations/san_juan.jpg
+10;UPB;12;UPB;6,244998;-75,589188;1;Sobre la ciclorruta de la Carrera 70 frente a la entrada de la UPB;https://encicla.metropol.gov.co/imgstations/upb.jpg
+11;Los Colores;22;COL;6,260004;-75,585136;0;Al frente de la entrada principal de la Institución Universitaria Salazar y Herrera;https://encicla.metropol.gov.co/imgstations/los_colores.jpg
+12;Floresta;20;FLO;6,258628;-75,597366;1;Bajo el viaducto de la estación Floresta del Metro en el parqueadero de bicicletas;https://encicla.metropol.gov.co/imgstations/los_colores.jpg
+13;Robledo;21;ROB;6,271922;-75,591324;1;Diagonal al Colegio Mayor de Antioquia;
+19;Plaza de La Libertad;38;ALP;6,2434627;-75,5746534;0;Costado sur de la Plaza de la Libertad al lado de La Alpujarra;https://encicla.metropol.gov.co/imgstations/plaza_de_la_libertad.jpg
+20;Parque de Los Mangos;18;MNG;6,245383;-75,584008;0;Esquina de la Av. Bolivariana con Carrera 65,  costado norte parque de Los Mangos;https://encicla.metropol.gov.co/imgstations/parque_de_los_mangos.jpg
+21;La 33;21;33;6,239151;-75,583073;1;Costado sur bajo el puente de la Carrera 65 con sobre la Calle 33;https://encicla.metropol.gov.co/imgstations/la_33.jpg
+22;Primer Parque de Laureles;32;LAU;6,24597;-75,593812;0;Costado norte del 1er Parque de Laureles,  al borde de la ciclorruta;https://encicla.metropol.gov.co/imgstations/primer_parque_de_laureles.jpg
+23;Rosales;9;ROS;6,231326;-75,591538;1;Esquina de la Cll. 30 con Cra. 70, diagonal a la estación Rosales de Metroplús;https://encicla.metropol.gov.co/imgstations/rosales.jpg
+24;Maria Luisa Calle;27;MLC;6,21553;-75,593096;1;Entrada principal de la Unidad Deportiva Maria Luisa Calle ;https://encicla.metropol.gov.co/imgstations/maria_luisa_calle.jpg
+27;Sabaneta Parque;1;SPQ;6,151631;-75,615623;1;Costado sur Parque de sabaneta;NULL
+28;Sabaneta Metro;1;SMT;6,1568288;-75,616668;1;Ingreso oriental estación Sabaneta del Metro;NULL
+32;San Pedro y San Pablo;40;PME;6,258327;-75,594235;0;Esquina de la calle 48 con carrera 77A, barrio Estadio.;https://encicla.metropol.gov.co/imgstations/san_pedro_y_san_pablo.jpg
+33;Pies Descalzos I;24;DES;6,245512;-75,577011;0;En el túnel verde EPM al costado norte de Pies Descalzos;https://encicla.metropol.gov.co/imgstations/pies_descalzos.jpg
+34;Área Metropolitana;21;AMV;6,242481;-75,573872;1;Al frente del edificio del Área Metropolitana sobre el costado norte de la Calle Los Huesos;https://encicla.metropol.gov.co/imgstations/area_metropolitana.jpg
+35;Plaza Mayor;20;PLZ;6,2426281;-75,5756351;0;Costado sur de Plaza Mayor sobre la Avenida Ferrocarril,  salida puente peatonal de Metroplús;https://encicla.metropol.gov.co/imgstations/plaza_mayor.jpg
+36;Parque de Las Luces I;28;CIS;6,246078;-75,571561;0;Plaza de Cisneros frente a los edificios Carré y Vásquez;https://encicla.metropol.gov.co/imgstations/parque_de_las_luces_I.jpg
+37;Pies Descalzos II;30;EPM;6,245322;-75,576857;0;En el túnel verde EPM al costado norte de Pies Descalzos;https://encicla.metropol.gov.co/imgstations/pies_descalzos_II.jpg
+38;Segundo Parque de Laureles;30;PLA;6,245062;-75,597297;1;Costado oriental del 2do Parque de Laureles con Av. Jardín;https://encicla.metropol.gov.co/imgstations/segundo_parque_de_laureles.jpg
+39;San Joaquín;30;SJ;6,243337;-75,58609;0;Esquina de la Av. Bolivariana con Circular 2da en el costado sur del parque de Los Mangos;https://encicla.metropol.gov.co/imgstations/san_joaquin.jpg
+40;Orquídeas;40;PCB;6,262605;-75,58895;0;Esquina del supermercado Consumo y la unidad Camino de Los Colores;https://www.encicla.gov.co/wp-content/uploads/orquideas.jpg
+41;Parque de Las Luces II;28;LUC;6,245594;-75,571763;0;Plaza de Cisneros frente a los edificios Carré y Vásquez;https://encicla.metropol.gov.co/imgstations/parque_de_las_luces_II.jpg
+42;Santa Teresita;32;STL;6,242021;-75,596746;0;Portada de la parroquia de Santa Teresita del Niño Jesús sobre la Carrera 76;https://encicla.metropol.gov.co/imgstations/santa_teresita.jpg
+43;Cisneros - Unaula;33;LOM;6,250576;-75,574814;1;Frente a la estación Cisneros del Metroplús;https://encicla.metropol.gov.co/imgstations/cisneros_unaula.jpg
+44;La 65;32;J65;6,248949;-75,583459;0;Esquina de la Calle 44 San Juan con Carrera 65 en Homecenter;https://www.encicla.gov.co/wp-content/uploads/la65.jpg
+45;Unidad Deportiva de Belén;20;DEP;6,232526;-75,587564;0;Portería de la Circular 1era con Av. Nutibara de la UPB al frente del periódico El Tiempo;https://encicla.metropol.gov.co/imgstations/unidad_deportiva_belen.jpg
+46;María Mulata;24;FNU;6,250549;-75,594719;0;Parque monumento a La Virgen en la Cll 44A con Cra 75,  vía paralela a la Cll San Juan;https://encicla.metropol.gov.co/imgstations/maria_mulata.jpg
+47;Circular Primera;24;CRP;6,241859;-75,591929;0;Portería de la Circular 1era con Av. Nuribara de la UPB al frente del periódico El Tiempo;https://encicla.metropol.gov.co/imgstations/circular_primera.jpg
+48;Batallón;14;P4B;6,262189;-75,595039;0;Vía paralela a la Calle 50 Av. Colombia,  al costado sur de la zona verde;https://encicla.metropol.gov.co/imgstations/batallon.jpg
+49;Pedro Nel Gómez;26;NTB;6,246906;-75,596625;0;Av. Nutibara en las esquina de las instalaciones de UNE;https://encicla.metropol.gov.co/imgstations/pedro_nel_gomez.jpg
+51;Cacique Candela;20;C73;6,243788;-75,595409;0;Esquina edificio Torre Molinos sobre la Cirq. 73b entre la Av. Nutibara y la Transv. 39;https://www.encicla.gov.co/wp-content/uploads/cacique-candela.jpg
+53;Florida Nueva;26;ATA;6,252601;-75,590333;0;Vía paralela a la Calle 47D Av. Antonio Roldán y el Parque Florida Nueva;https://encicla.metropol.gov.co/imgstations/florida_nueva.jpg
+54;Primavera;40;RTN;6,2253;-75,572449;1;Barrio Colombia sobre la Cll. 24 con Cra. 43F;https://encicla.metropol.gov.co/imgstations/primavera.jpg
+55;SIU-UdeA;20;SIU;6,260481;-75,567179;0;Costado oriental de la SIU sobre la ciclorruta de Carabobo;https://encicla.metropol.gov.co/imgstations/SIU_UdeA.jpg
+56;Industriales Metro;38;PCL;6,23055;-75,574373;0;Plazoleta del Centro Comercial Punto Clave sobre la ciclorruta de la Av. Las Vegas;https://encicla.metropol.gov.co/imgstations/industriales_metro.jpg
+57;Nutibara;36;NTB;6,231811;-75,582953;0;Costado Occidental de la estación Nutibara de Metroplús sobre la Carrera 65 con Calle 30;https://encicla.metropol.gov.co/imgstations/nutibara.jpg
+58;Parque San Joaquín;30;PSJ;6,245576;-75,586801;0;Parque de San Joaquín con la Circular 3;https://encicla.metropol.gov.co/imgstations/parque_de_san_joaquin.jpg
+59;Río Aburrá;26;BCO;6,22851;-75,574658;0;Al frente del edificio de Bancolombia sobre la ciclorruta de la Av. Las Vegas ;https://encicla.metropol.gov.co/imgstations/rio_aburra.jpg
+60;Villa Carlota;26;VCA;6,220012;-75,575431;0;Esquina sur del complejo residencial Ciudad del Rio y Holasa sobre la ciclorruta de la Av. Las Vegas;https://encicla.metropol.gov.co/imgstations/villa_carlota.jpg
+61;Ciudad del Río;18;NAR;6,222324;-75,572961;0;Parque lineal de Ciudad del Rio sobre la Carrera 43G;
+62;Otra Banda;40;CER;6,255589;-75,579259;0;Parque Carlos E. Restrepo en el costado Norte de la Calle 50 Av. Colombia;https://encicla.metropol.gov.co/imgstations/otrabanda.jpg
+63;Palacé;34;CDR;6,236338;-75,573291;0;Plazuela al frente de la Iglesia del Perpetuo Socorro;https://encicla.metropol.gov.co/imgstations/palace.jpg
+64;MAMM;38;MUM;6,22378;-75,574966;0;Ciudad del Rio en la Plaza Talleres Robledo sobre la ciclorruta de la Av. Las Vegas;https://encicla.metropol.gov.co/imgstations/mamm.jpg
+65;Juan Pablo II;26;JP2;6,222392;-75,592235;0;Costado norte de la plazoleta del Aeroparque Juan Pablo II sobre la Av. 70;https://encicla.metropol.gov.co/imgstations/juan_pablo_II.jpg
+66;Industriales Metroplús;20;IMP;6,231406;-75,577222;1;Costado occidental de la Estación Industriales de Metroplús;https://encicla.metropol.gov.co/imgstations/industriales_metroplus.jpg
+67;Museo de Antioquia;20;MAQ;6,251826;-75,568796;1;Plazoleta de Botero frente a la entrada principal del Museo de Antioquia;https://encicla.metropol.gov.co/imgstations/museo_de_antioquia.jpg
+70;Campus Nacional;33;NAC;6,260703;-75,57858;1;Portería de la Iguaná con Carrera 65 de la Universidad Nacional;
+89;Málaga;20;MLG;6,24655;-75,569954;0;Bajo la estación San Antonio;https://encicla.metropol.gov.co/imgstations/malaga.jpg
+90;Calle 51 Los Colores;40;C51;6,26337958;-75,59509188;0;Media cuadra debajo de INVIAS ;https://encicla.metropol.gov.co/imgstations/calle_51_los_colores.jpg
+91;Telemedellín;40;TM;6,22006;-75,5714;0;Ingreso Canal parque Telemedellín;https://encicla.metropol.gov.co/imgstations/telemedellin.jpg
+92;Parques del río;48;PR;6,245546;-75,580543;0;Costado noroccidental de Parques del río ;https://encicla.metropol.gov.co/imgstations/parques_del_rio.jpg
+93;Salazar y Herrera;40;SL;6,26043075;-75,58616817;0;Posterior a la I.U. Salazar y Herrera;https://encicla.metropol.gov.co/imgstations/salazar_y_herrera.jpg
+94;Calle 19A Villa Carlota;40;19A;6,222081;-75,571117;0;Diagonal al ingreso Grupo Orbis - Pintuco;https://encicla.metropol.gov.co/imgstations/calle_19_a_villa_carlota.jpg
+95;San Antonio;20;SA;6,24841132;-75,56905568;0;Bajo la estación San Antonio del Metro;https://encicla.metropol.gov.co/imgstations/san_antonio.jpg
+96;Parque Berrio;20;PB;6,25004308;-75,56840926;0;Bajo la estación Parque Berrío del Metro;https://encicla.metropol.gov.co/imgstations/parque_berrio.jpg
+97;Palacio de la Cultura;20;PC;6,25066699;-75,56807131;0;Paseo Bolívar, diagonal al palacio de la Cultura;https://encicla.metropol.gov.co/imgstations/palacio_de_la_cultura.jpg
+98;Picacha la 76;36;PI;6,23525042;-75,59647322;0;Costado occidental del puente. La Picacha.;https://encicla.metropol.gov.co/imgstations/picacha_la_76.jpg
+99;Unicentro;40;UC;6,23988984;-75,58665901;0;Frente al Banco de Occidente;https://encicla.metropol.gov.co/imgstations/unicentro.jpg  
+100;Bulerias;40;BU;6,23857801;-75,59041411;0;Bajo el puente de la Av. Bolivariana;https://encicla.metropol.gov.co/imgstations/bulerias.jpg
+101;Cafetero;44;CF;6,23858334;-75,58617622;0;Diagonal al ingreso del éxito súper;https://encicla.metropol.gov.co/imgstations/cafetero.jpg
+102;Distrito Creativo;48;HG;6,23461583;-75,57196051;0;Posterior al Hospital General de Medellín;https://encicla.metropol.gov.co/imgstations/distrito_creativo.jpg
+103;Auxiliar Metro Envigado;36;ME;6,17328099;-75,59658587;0;   Cabezote sur estación Envigado del Metro, costado oriental.;
+104;Metro Envigado Sur;24;MS;6,17352632;-75,59709817;0;Cabezote sur estación Envigado del Metro, costado oriental.;
+105;Metro Envigado Norte;40;MN;6,17427832;-75,59579462;0;Cabezote norte estación Envigado del metro, costado oriental.;
+106;Puente fundadores;56;PF;6,17264099;-75,59282809;0;Esquina sur oriental;
+107;La Ultima Estación;52;EST;6,17122766;-75,59411019;0;Vía de servicio paralela a Las Vegas cerca a cll 39a sur ciclorruta;
+108;Pista de patinaje;40;PT;6,16955299;-75,59478611;0;Acceso posterior a pista de patinaje Club PAEN;
+109;Villas de vallejuelos;36;VV;6,16856099;-75,5928871;0;Portería urbanización Villas del Vallejuelo;
+110;Iglesia Alcalá;48;IA;6,16997966;-75,59330016;0;Contigua a la cilorruta y a la iglesia Santa Cruz de Alcalá;
+111;Los urapanes;36;LU;6,17315299;-75,59117854;0;Costado occidental Parque los Urapanes;
+112;Parque Débora Arango;44;PQ;6,17167033;-75,59106052;0;Costado sur occidental del Parque Débora Arango;
+113;Porton de Alcalá;20;PA;6,16866232;-75,5908674;0;Contiguo a urbanización Portón de Alcalá;
+114;El MUA;40;MUA;6,17058766;-75,58939487;0;Diagonal a la I.E. Manuel Uribe Ángel;
+115;Viva envigado;56;LU;6,17715296;-75,59021294;0;Esquina nororiental del C.C. Viva Envigado;
+116;Guanteros;44;LU;6,16911566;-75,58842927;0;Al frente de Personería de Envigado;
+118;Envigado centro;40;EC;6,17028366;-75,58680922;0;Diagonal iglesia Santa Gertrudis, zona bancaria. ;
+121;Las Vegas 69 Sur;40;V69;6,154112;-75,616959;0;;
+122;Santa Ana;40;SA;6,1538988;-75,6151286;0;Diagonal iglesia Santa Gertrudis, zona bancaria. ;
+123;Calle Nueva;56;CN;6,148238;-75,620769;0;;
+124;La Barquereña;52;LB;6,150714;-75,613458;0;;
+125;Entre amigos;40;EA;6,152328;-75,618236;0;;
+126;Sabaneta centro;40;SC;6,15086;-75,616431;0;;
+127;Aves María;40;AM;6,149742;-75,617924;0;Diagonal iglesia Santa Gertrudis, zona bancaria. ;
+128;Biblioteca Sabaneta;40;BS;6,150029;-75,619176;0;;
+129;Puerta La 77 Sur;40;P77;6,152422;-75,624636;0;Diagonal iglesia Santa Gertrudis, zona bancaria. ;
+130;Parque 4 Elementos;36;P4E;6,152474;-75,612732;0;;
+131;Metro Itaguí I;24;ITA1;6,16417161;-75,6062901;0;;
+132;Metro Itaguí II;44;ITA2;6,16418228;-75,60618281;0;;
+133;Bahía Ciclovia;32;AUT;6,16803298;-75,60634375;0;;
+134;Ideas;28;IDE;6,16955832;-75,607481;0;;
+135;Parque Itaguí;24;PITA;6,17264099;-75,6093049;0;;
+136;Metróplus Cami;40;PITA;6,17485965;-75,60941756;0;;
+137;Doña María;40;PITA;6,17577164;-75,60602456;0;;
+138;Los Naranjos;36;PITA;6,17191566;-75,60698748;0;;
+139;Villa Paula;40;PITA;6,17419832;-75,60690165;0;;
+140;Parque el Artista;40;PITA;6,1789236;-75,60217023;0;;
+141;Puente pan de Queso I;52;PITA;6,17564897;-75,59644371;0;;
+142;Puente pan de Queso II;40;PITA;6,17547831;-75,59662074;0;;
