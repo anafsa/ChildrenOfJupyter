@@ -136,3 +136,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+Stage-3/bike_loans.csv
+Stage-3/df_clean

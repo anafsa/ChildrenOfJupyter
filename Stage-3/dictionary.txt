@@ -1,0 +1,14 @@
+This is what I wrote: 
+Id_Historico_Prestamo - Loan ID
+Id_Usuario - Borrower ID 
+Id_Tag_Bicicleta - Bike ID 
+Fecha_Prestamo - Timestamp of the start of the loan 
+Fecha_Devolucion - Timestamp of the end of the loan
+Id_Aparcamiento_Origen - ID of the start station
+Posicion_Origen - ID of the position in the starting bike station rack (TBC)
+Id_Aparcamiento_Destino - ID of the end station;
+Posicion_Destino - ID of the position in the starting bike station rack (TBC)
+Importe - Unknown
+DescripcionImporte - Unkown
+operario - Worker that received the bike in the manual station (TBC)
+Num_Bici_Hist - Unknown
