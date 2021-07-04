@@ -19,3 +19,4 @@ dependencies:
     - osmium
     - xlrd
     - searchtweets
+    - keract
