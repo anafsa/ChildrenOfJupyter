@@ -1,3 +1,0 @@
-# ChildrenOfJupyter
-
-Testing slack integration
